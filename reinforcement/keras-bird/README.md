@@ -12,3 +12,5 @@
         
          cd Keras-FlappyBird
          python qlearn.py -m "Run"
+
+         http://www.jianshu.com/p/3ba69493f020
