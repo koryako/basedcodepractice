@@ -26,3 +26,11 @@ http://www.johnwittenauer.net/configuring-theano-for-high-performance-deep-learn
 http://edersantana.github.io/articles/keras_rl/
 
 http://chuansong.me/n/335655551424
+
+
+https://github.com/go2sea/C51DQN
+https://github.com/Kiwoo/distributional_perspective_on_RL
+论文：https://arxiv.org/abs/1707.06887
+deepmind 博客： https://deepmind.com/blog/going-beyond-average-reinforcement-learning/
+掌握好了来面试哦！
+翻译：https://mp.weixin.qq.com/s/cO1VlYGwdRBAbPs7IgvcAA
