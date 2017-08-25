@@ -34,3 +34,14 @@ https://github.com/Kiwoo/distributional_perspective_on_RL
 deepmind 博客： https://deepmind.com/blog/going-beyond-average-reinforcement-learning/
 掌握好了来面试哦！
 翻译：https://mp.weixin.qq.com/s/cO1VlYGwdRBAbPs7IgvcAA
+
+原文：
+https://medium.com/towards-data-science/types-of-convolutions-in-deep-learning-717013397f4d
+
+更多卷积动画：
+
+https://github.com/vdumoulin/conv_arithmetic
+
+
+深度可分离卷积结构
+
