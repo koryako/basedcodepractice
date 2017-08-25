@@ -1,5 +1,5 @@
 from maze_env import Maze
-from RL_brain import SarsaTable
+from RL_brain import SarsaTable，QLearningTable
 
 
 
@@ -42,6 +42,6 @@ def update():
 if __name__ == "__main__":
     env = Maze()
     RL = SarsaTable(actions=list(range(env.n_actions)))
-
+    #RL = QLearningTable(actions=list(range(env.n_actions)))# q learn
     env.after(100, update)
     env.mainloop()
