@@ -5,4 +5,4 @@ Sarsa在当前 state 已经想好了 state 对应的 action, 而且想好了 下
 
 逻辑
 
-![逻辑](http://180.76.148.87/sarsasy.png)
+![逻辑](http://180.76.148.87/sarsasu.png)
