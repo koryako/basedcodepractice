@@ -45,3 +45,8 @@ https://github.com/vdumoulin/conv_arithmetic
 
 深度可分离卷积结构
 
+
+q learn 
+
+https://mp.weixin.qq.com/s/eLy5hWsE-UoOzTtT8m9ORA?from=singlemessage&isappinstalled=0
+

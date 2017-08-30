@@ -25,3 +25,18 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650664779&idx=2&sn=93ec0b
 3 增加自编码器练习
 
 
+https://github.com/jostmey/NakedTensor   tensorflow 基础代码
+
+http://mi.eng.cam.ac.uk/projects/segnet/
+
+
+https://github.com/llSourcell/how_to_do_math_for_deep_learning
+
+迁移学习 基本概念
+
+https://mp.weixin.qq.com/s/4OY3_ooEi2vPezr6Nha3yg?from=singlemessage&isappinstalled=0
+
+
+q learn 
+
+https://mp.weixin.qq.com/s/eLy5hWsE-UoOzTtT8m9ORA?from=singlemessage&isappinstalled=0

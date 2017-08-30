@@ -209,9 +209,34 @@ def main():
 if __name__ == "__main__":
     main()  #执行本脚本时以main函数开始
 
+"""
+
+Convolution2D(
+              nb_filter,   # 过滤器个数
+              nb_row,   # 过滤器的行数
+              nb_col,   # 过滤器的列数
+              init='glorot_uniform',   # 层权重weights的初始化函数
+              activation='linear',  # 默认激活函数为线性，即a(x) = x
+              weights=None, 
+              border_mode='valid',  
+              # 默认'valid'(不补零，一般情况)  
+              # 或者'same'(自动补零，使得输出尺寸在过滤窗口步幅为1的情况下与输入尺寸相同，
+              # 即输出尺寸=输入尺寸/步幅) 
+              subsample=(1, 1),  # 代表向左和向下的过滤窗口移动步幅
+              dim_ordering='default',  # 'default' 或'tf' 或'th'
+              W_regularizer=None, 
+              b_regularizer=None, 
+              activity_regularizer=None, 
+              W_constraint=None, 
+              b_constraint=None, 
+              bias=True
+              # 未注释的一般用默认值
+            )
+
 作者：treelake
 链接：http://www.jianshu.com/p/3ba69493f020
 來源：简书
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+"""
 
 
